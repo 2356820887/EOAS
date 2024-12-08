@@ -1,0 +1,16 @@
+autoDetectedPackages:
+- com.guat.eoas.dao
+- com.guat.eoas.filter
+- com.guat.eoas.pojo
+- com.guat.eoas.service
+- com.guat.eoas.servlet
+- com.guat.eoas.test
+- com.guat.eoas.utils
+enableAutoDetect: true
+ignoreSameClassCall: null
+ignoreSamePackageCall: null
+includedPackagePrefixes: null
+includedParentClasses: null
+name: xcodemap-filter
+recordMode: smart
+startOnDebug: false
